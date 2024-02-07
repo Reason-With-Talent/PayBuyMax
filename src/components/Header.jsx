@@ -1,8 +1,10 @@
 import { Link } from 'react-router-dom'
-import Logo from "../assets/IMG/PayBuyLogo.svg"
+import Logo from "../assets/IMG/Head.svg"
 import Bitcoin from "../assets/IMG/Bitcoin.svg"
 import { BiMenu } from "react-icons/bi"
+import { FaTimes } from "react-icons/fa"    
 const Header = () => {
+    
     return (
         <>
             <section className="bg-[url('assets/IMG/Ground.jpeg')] bg-cover bg-no-repeat">

@@ -1,4 +1,4 @@
-import Logo from "../assets/IMG/PayBuyLogo.svg"
+import Logo from "../assets/IMG/Head.svg"
 import Bitcoin from "../assets/IMG/Bitcoin.svg"
 import { BiMenu } from "react-icons/bi"
 import Questions from "../components/Questions"
